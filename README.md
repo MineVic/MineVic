@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Minecraft plugins development
+- 🌱 I’m currently learning Java and Python
 <!--
 **MineVic/MineVic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
